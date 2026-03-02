@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGCkynrJztGGQ/profile-displaybackgroundimage-shrink_350_1400/B56ZydgYoOHsAY-/0/1772169039295?e=1773878400&v=beta&t=HVfO8qd9xqqCCadstRDN_25zDeBlzCMpgkU7dXy5CDw" width="100%" alt="Cover Banner" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=08CB00&center=true&vCenter=true&width=900&lines=Learning+JavaScript+by+Building+Interactive+Web+Pages;Turning+HTML+%26+CSS+Designs+into+Responsive+Layouts;Practicing+Clean+Code+While+Exploring+Frontend+Frameworks;Improving+Problem-Solving+Through+Small+Web+Projects;Growing+as+a+Frontend+Developer+with+TailwindCSS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=900&color=08CB00&center=true&vCenter=true&width=900&lines=Learning+JavaScript+by+Building+Interactive+Web+Pages;Turning+HTML+%26+CSS+Designs+into+Responsive+Layouts;Practicing+Clean+Code+While+Exploring+Frontend+Frameworks;Improving+Problem-Solving+Through+Small+Web+Projects;Continuously+Growing+as+a+Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ---
