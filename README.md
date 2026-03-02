@@ -26,9 +26,9 @@ const saharier = {
 ## `currently.exe`
 
 ```bash
-$ working on  → Modern layouts (HTML, CSS, Tailwind)
-$ sharpening  → JavaScript logic & problem solving
-$ exploring   → TailwindCSS components
+$ working on  → Frontend projects (HTML, CSS, JavaScript)  
+$ sharpening  → JavaScript logic & problem solving  
+$ exploring   → Modern CSS & Tailwind CSS  
 $ next goal   → React.js 🚀
 ```
 
