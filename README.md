@@ -1,8 +1,12 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Saharier36&style=flat-square&color=00FFB3" alt="Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Saharier36&style=flat-square&color=00FFB3" alt="Visitors" align="right" />
+<br/>
 
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/4dc0ef34-f0b9-4537-a370-9d3e615ffc37" />
 
+<br/>
+
 <div align="center">
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=900&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi+There!+I%27m+Saharier+Omi+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;Building+Responsive+%26+Interactive+Web+Apps;Skilled+in+React%2C+Next.js+%26+JavaScript;Writing+Clean+%26+Maintainable+Code;Always+Learning+%26+Growing+Everyday" alt="Typing SVG" />
 </div>
 
@@ -20,8 +24,6 @@
   <a href="https://www.facebook.com/mdsaharieromi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/mdsaharieromi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
-<br/>
 
 ---
 
@@ -42,7 +44,7 @@
 - 🌐 Frontend challenges, UI design & pixel-perfect layouts
 - 📚 Learning new technologies & building side projects
 
-##
+<br/>
 </td>
 <td width="35%" valign="top">
 
