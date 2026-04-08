@@ -71,14 +71,19 @@
 ## 📦 Quick Info
 
 ```js
-const saharier = {
-  name     : "Saharier Omi",
-  role     : "Aspiring Full Stack Web Developer",
-  location : "Bangladesh 🇧🇩",
-  status   : "Always Learning 📚",
-  projects : ["DigiTools", "Book Vibe", "English Janala"],
-  mission  : "Building user-centric web experiences" +
-             " & growing into a professional developer",
+const saharierOmi = {
+  pronouns: "He/Him",
+  skills: ["JavaScript", "HTML", "CSS", "Tailwind CSS", "React.js", "Next.js"],
+  projects: ["DigiTools", "Book Vibe", "English Janala", "GitHub Issues Tracker"],
+  status: "Learning",
+  profileDetails: {
+    institution: "Dhaka Central University",
+    languagesSpoken: ["Bangla", "English"],
+    professionalRole: "Web Developer",
+    basedIn: "Bangladesh 🇧🇩"
+  },
+  mission: "Building user-centric web experiences and growing into a professional full stack developer",
+  dailyCommitment: "Learning 6 hours daily to master modern web development",
 };
 ```
 
