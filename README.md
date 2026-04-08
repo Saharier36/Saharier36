@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=900&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi+There!+I%27m+Saharier+Omi+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;Building+Responsive+%26+Interactive+Web+Apps;Skilled+in+React%2C+Next.js+%26+JavaScript;Writing+Clean+%26+Maintainable+Code;Always+Learning+%26+Growing+Everyday" alt="Typing SVG" />
 </div>
 
-<br/>
+---
 
 <div align="center">
   <p>I’m an aspiring <strong>Full Stack Web Developer</strong> 🌱 passionate about building interactive and responsive web applications 💻. Currently, I’m focusing on <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>JavaScript</strong>, while continuously learning modern web technologies 🚀 to expand my skills and create real-world projects 📂</p>
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/saharier-omi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gsaharier761@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/saharier.xyz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/SaharierX36"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/SaharierX36"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/mdsaharieromi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/mdsaharieromi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
