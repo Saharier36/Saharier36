@@ -50,7 +50,7 @@
 
 ## 🛠️ Tech & Tools
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,figma,vscode,windows&perline=5)
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github,figma,vscode,windows&perline=5)
 
 </td>
 </tr>
