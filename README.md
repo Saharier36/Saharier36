@@ -62,9 +62,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [**KeenKeeper**](https://github.com/Saharier36/Keen-Keeper) | Friendship Tracker & Analytics | Next.js, Tailwind, Recharts, Context API |
 | [**DigiTools**](https://github.com/Saharier36/Digital-Tools-Shop) | Digital Tools Shop — React e-commerce app | React, Tailwind CSS, DaisyUI |
 | [**Book Vibe**](https://github.com/Saharier36/Book-Vibe) | Book discovery & reading list app | React, JavaScript |
-| [**English Janala**](https://github.com/Saharier36/English-Janala) | Vocabulary learning platform with TTS | Vanilla JS, Tailwind CSS |
 
 ---
 
@@ -74,7 +74,7 @@
 const saharierOmi = {
   pronouns: "He/Him",
   skills: ["JavaScript", "HTML", "CSS", "Tailwind CSS", "React.js", "Next.js"],
-  projects: ["DigiTools", "Book Vibe", "English Janala", "GitHub Issues Tracker"],
+  projects: ["KeenKeeper", "DigiTools", "Book Vibe", "English Janala"],
   status: "Learning",
   profileDetails: {
     institution: "Dhaka Central University",
