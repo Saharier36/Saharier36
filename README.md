@@ -53,7 +53,7 @@
 
 ## 🛠️ Tech & Tools
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb,git,github,figma,vercel,vscode,powershell,windows&perline=5)
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb,git,github,figma,vercel,vscode,windows&perline=5)
 
 </td>
 </tr>
