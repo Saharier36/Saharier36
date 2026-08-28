@@ -109,22 +109,20 @@
 ---
 
 ## 📦 Quick Info
-
 ```js
 const saharierOmi = {
   pronouns: "He/Him",
-  skills: ["JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
-  recentProjects: ["StudyNook", "QurbaniHat", "KeenKeeper"],
-  currentlyLearning: "Advanced Full Stack MERN Development",
+  skills: ["JavaScript (ES6+)", "TypeScript", "React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma"],
+  recentProjects: ["Rydo", "ModelNestAI", "LegalEase"],
+  currentlyLearning: "System design & database architecture",
   status: "Open to opportunities",
   profileDetails: {
     institution: "Dhaka Central University",
     languagesSpoken: ["Bangla", "English"],
-    professionalRole: "MERN Stack Developer",
+    professionalRole: "Full Stack Developer",
     basedIn: "Bangladesh 🇧🇩"
   },
-  mission: "Building scalable, user-centric full-stack web experiences and growing into a professional developer",
-  dailyCommitment: "Learning 6 hours daily to master modern web development",
+  mission: "Building real-world apps that solve actual user problems — not just tutorials",
 };
 ```
 
