@@ -7,7 +7,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=900&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi+There!+I%27m+Saharier+Omi+%F0%9F%91%8B;MERN+Stack+Developer;Building+Full+Stack+Web+Applications;Skilled+in+Next.js%2C+React+%26+Node.js;Working+with+MongoDB+%26+Express.js;Always+Learning+%26+Growing+Everyday" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=900&color=00FFB3&center=true&vCenter=true&width=900&lines=Crafting+Scalable+Full-Stack+Apps;Specialized+in+Next.js%2C+React+%26+Node.js;Building+Secure%2C+Role-Based+Platforms;Solving+Real+Complexity+with+Clean+Code;Open+to+Junior+Developer+Opportunities" alt="Typing SVG" />
 </div>
 
 ---
