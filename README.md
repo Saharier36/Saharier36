@@ -102,9 +102,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**StudyNook**](https://github.com/Saharier36/studynook-client) | Modern Study Room Booking Platform | Next.js, Express.js, Better Auth, MongoDB |
-| [**QurbaniHat**](https://github.com/Saharier36/Qurbani-Hat) | Digital Marketplace for Qurbani Animals | Next.js, MongoDB, Better Auth |
-| [**KeenKeeper**](https://github.com/Saharier36/Keen-Keeper) | Friendship Tracker & Analytics | Next.js, Tailwind, Recharts, Context API |
+| [**LegalEase**](https://legalease-lovat.vercel.app/) | Online Lawyer Hiring & Legal Service Marketplace | Next.js, Express.js, MongoDB, Better Auth, Stripe |
+| [**StudyNook**](https://studynook-zeta.vercel.app/) | Modern Study Room Booking Platform | Next.js, Express.js, Better Auth, MongoDB |
+| [**QurbaniHat**](https://qurbani-hat-pied.vercel.app/) | Digital Marketplace for Qurbani Animals | Next.js, MongoDB, Better Auth, HeroUI |
 
 ---
 
