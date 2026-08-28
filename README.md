@@ -129,13 +129,13 @@ const saharierOmi = {
 ---
 
 ## 📊 GitHub Activity
+
 <div align="center">
-  <img width="40%" src="https://helio-github-stats.vercel.app/api?username=Saharier36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9" />
-  <img width="40%" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Saharier36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=c9d1d9" />
+  <img width="38%" src="https://helio-github-stats.vercel.app/api?username=Saharier36&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9" />
+  <img width="38%" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Saharier36&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=c9d1d9" />
   <br/><br/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Saharier36&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saharier36&theme=tokyo-night&color=00FFB3&area=true&hide_border=true&point=00FFB3" width="90%" />
+  <img width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saharier36&theme=tokyo-night&color=00FFB3&area=true&hide_border=true&point=00FFB3" />
+  <img width="38%" src="https://streak-stats.demolab.com?user=Saharier36&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" />
 </div>
 
 ---
