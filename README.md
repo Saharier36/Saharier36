@@ -19,11 +19,11 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/saharier-omi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=1" /></a>
+<a href="https://www.linkedin.com/in/saharier-omi"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
 <a href="https://saharieromi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3D52D5?style=for-the-badge&logo=vercel&logoColor=white&v=1" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gsaharier761@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=1" /></a>
 <a href="https://x.com/SaharierX36"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white&v=1" /></a>
-<a href="https://www.instagram.com/mdsaharieromi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&v=1" /></a>
+<a href="https://www.instagram.com/saharier.omi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&v=1" /></a>
 <a href="https://discord.com/users/saharier.xyz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&v=1" /></a>
 </div>
 
