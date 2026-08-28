@@ -35,12 +35,12 @@
 
 ## 💬 Personal Stuff
 
-- 🔭 I'm currently building with **Next.js, Express.js & MongoDB**
-- 🌱 I'm currently deepening my skills in **Full Stack MERN Development**
-- 🔐 Working with **Better Auth** — JWT, Google OAuth & Session Handling
-- 🚀 Passionate about building **clean, scalable & production-ready web apps**
+- 🔭 I'm currently building with **Next.js, TypeScript & MongoDB**
+- 🌱 I'm currently deepening my skills in **system design & database architecture (PostgreSQL, Prisma)**
+- 🔐 Working with **secure auth flows** — JWT, Google OAuth & session-based access control
+- 🚀 Passionate about building **real-world apps that solve actual user problems** — not just tutorials
 - 📫 Reach me out: **gsaharier761@gmail.com**
-- 🌐 Portfolio: **[saharier-omi-portfolio.vercel.app](https://saharier-omi-portfolio.vercel.app)**
+- 🌐 Portfolio: **[saharieromi.vercel.app](https://saharieromi.vercel.app)**
 
 ## ❤️ My Absolute Favorites
 
