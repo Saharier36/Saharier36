@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Saharier36&style=flat-square&color=00FFB3" alt="Visitors" align="right" />
 <br/>
 
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/4dc0ef34-f0b9-4537-a370-9d3e615ffc37" />
+<img width="1584" height="299" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/66fae38f-476a-415f-a59a-ff4f55ec4b94" />
 
 <br/>
 
