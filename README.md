@@ -13,7 +13,9 @@
 ---
 
 <div align="center">
-  <p>I'm a <strong>MERN Stack Developer</strong> 🌱 passionate about building full-stack, responsive and user-friendly web applications 💻. Currently working with <strong>Next.js</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong> and <strong>MongoDB</strong>, while continuously deepening my skills in modern web technologies 🚀 to build real-world, production-ready projects 📂</p>
+  <p>
+  👋 Hi, I'm <strong>Golam Saharier Omi</strong>, a versatile <strong>Full Stack Developer</strong> passionate about transforming ambitious ideas into production-ready digital products 🚀. Whether it's architecting a dynamic online marketplace, designing an automated booking system, or developing a custom SaaS tool, I love engineering solutions that users enjoy interacting with 💻. My day-to-day involves leveraging <strong>TypeScript</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and modern UI frameworks like <strong>Tailwind CSS</strong> ⚙️ to deliver seamless user experiences, integrate robust APIs (like <strong>Stripe</strong>), and maintain high performance 💡. Always eager to collaborate on impactful projects and bring innovative visions to life! 🤝
+</p>
 </div>
 
 <div align="center">
