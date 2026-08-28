@@ -44,10 +44,10 @@
 
 ## ❤️ My Absolute Favorites
 
-- 💡 Turning ideas into real full-stack web experiences through code
-- 🌐 Frontend challenges, UI design & pixel-perfect layouts
-- 🛠️ Building REST APIs and working with databases
-- 📚 Learning new technologies & shipping real projects
+- 💡 Turning ideas into full-stack apps — from database schema to deployed UI
+- 🔍 Debugging real production issues (found and fixed a role-access bug in my own project)
+- 🛠️ Designing REST APIs and structuring databases for real-world use cases
+- 📚 Learning by building — every project ships live, not just in a repo
 
 <br/>
 </td>
